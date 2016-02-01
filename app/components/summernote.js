@@ -1,4 +1,4 @@
 import Ember from 'ember';
-import Summernote from 'ember-summernote/components/summernote';
+import EmberSummernote from 'ember-summernote/components/summernote';
 
-export default Summernote;
+export default EmberSummernote;

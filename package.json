@@ -39,6 +39,7 @@
   },
   "keywords": [
     "ember-addon",
+    "ember-summernote",
     "summernote"
   ],
   "dependencies": {
