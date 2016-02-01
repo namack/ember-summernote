@@ -1,5 +1,6 @@
 import Ember from 'ember';
+import layout from '../templates/components/ember-summernote';
 
 export default Ember.Component.extend({
-  // summernote component code here
+  layout: layout
 });
