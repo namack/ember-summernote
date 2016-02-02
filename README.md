@@ -1,5 +1,7 @@
 # Ember-summernote
 
+Attention! This is still a work in progress. It probably won't do you much good for a while.
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
