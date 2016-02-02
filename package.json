@@ -1,6 +1,6 @@
 {
   "name": "ember-summernote",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An ember addon wrapper for summernote",
   "directories": {
     "doc": "doc",
